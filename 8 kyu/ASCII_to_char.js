@@ -1,4 +1,4 @@
-// Arrow style Functions
+// Title: Arrow style Functions
 
 // Come here to practice the Arrow style functions Not much else to say good luck!
 
